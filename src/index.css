@@ -8,6 +8,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
 
+p {
+    margin: 0;
+    font-size: 20px;
+    color: #2B283A;
+}
+
 nav {
     padding: 30px 40px;
     background-color: #F55A5A;
@@ -21,11 +27,6 @@ nav {
     width: 30px;
 }
 
-.location {
-    display: flex;
-    gap: 20px;
-}
-
 nav > h1 {
     margin: 0;
     color: whitesmoke;
@@ -37,6 +38,49 @@ section {
     gap: 30px;
 }
 
+.location-container {
+    margin-top: 20px;
+    display: flex;
+    gap: 5px;
+}
+
 .photo-location {
-    height: 200px;
+    height: 300px;
+}
+
+.location-pin {
+    margin-top: 7px;
+    height: 15px;
+}
+
+.location-country {
+    letter-spacing: 2px;
+}
+
+.location-link {
+    padding-left: 15px;
+    font-size: 20px;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    color: #918E9B;
+}
+
+.location-name {
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.trip-date {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+hr {
+    color: #e7e7e7;
+    background-color: #e7e7e7;
+    border-color: #e7e7e7;
+    border: 0;
+    height: 3px;
+    width: 90%;
 }
