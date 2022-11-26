@@ -15,7 +15,7 @@ export default [
         link: 'https://www.google.com/maps/place/University+of+Cambridge/@52.205356,0.113168,17z/data=!3m1!4b1!4m5!3m4!1s0x47d8774ed42712a9:0x21ca80abf36db5bb!8m2!3d52.205356!4d0.113168',
         location: 'University of Cambridge',
         startDate: '02 Nov. 2018',
-        description: "The University of Cambridge is so beautiful! We visited during the afternoon and walked around. In the evening, we took a boat ride around the campus. Fun fact: It was founded in 1209, making it the world's third-oldest surviving university. Bloop, thanks for making it this far!"        
+        description: "The University of Cambridge is so beautiful! We visited during the afternoon and walked around. In the evening, we took a boat ride around the campus. Fun fact: It was founded in 1209, making it the world's third-oldest surviving university."        
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ export default [
         link: 'https://www.google.com/maps/@43.8395009,-79.3916043,15z',
         location: 'Stonehenge',
         startDate: '10 Nov. 2018',
-        description: 'Went on a shuttle bus to Stonehenge, it was crazy to see the huge stones in person. Very mysterious and interesting to walk around the area, there were some structures and other historical information throughout the area. How did the stones get there?! There were a lot of theries. Wish we got to see it during sunset, maybe next time! Fun fact: 2.13m of Stone 56, the tallest standing stone on the site, is buried underground - in total it measures 8.71 metres from base to tip.'        
+        description: 'Went on a shuttle bus to Stonehenge, it was crazy to see the huge stones in person. Very mysterious and interesting to walk around the area, there were some structures and other historical information throughout the area. How did the stones get there?! There were a lot of theries. Wish we got to see it during sunset, maybe next time! Fun fact: 2.13m of Stone 56, the tallest standing stone on the site, is buried underground - in total it measures 8.71 metres from base to tip. Bloop, thanks for making it this far!'        
     }
 
 ]
